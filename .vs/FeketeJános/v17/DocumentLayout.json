@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\windows\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\windows\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\windows\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\classes\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:classes\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\classes\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:classes\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\c#\\feketej\u00E1nos\\classes\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:classes\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\ResultWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\ResultWindow.xaml",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\ResultWindow.xaml",
+              "RelativeToolTip": "Windows\\ResultWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T11:02:25.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\GameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\GameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\GameWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\GameWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:02:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\GameWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\GameWindow.xaml",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\GameWindow.xaml",
+              "RelativeToolTip": "Windows\\GameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T11:01:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Deck.cs",
+              "RelativeDocumentMoniker": "Classes\\Deck.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Deck.cs",
+              "RelativeToolTip": "Classes\\Deck.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:56:26.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Hand.cs",
+              "RelativeDocumentMoniker": "Classes\\Hand.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Hand.cs",
+              "RelativeToolTip": "Classes\\Hand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:00:27.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Card.cs",
+              "RelativeDocumentMoniker": "Classes\\Card.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Classes\\Card.cs",
+              "RelativeToolTip": "Classes\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:56:05.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T10:53:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\ResultWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ResultWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\Windows\\ResultWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\ResultWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:02:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\12d\\C#\\FeketeJ\u00E1nos\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T10:53:53.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

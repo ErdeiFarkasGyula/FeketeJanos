@@ -1,0 +1,15 @@
+﻿<Window x:Class="FeketeJános.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FeketeJános"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Content="Start Game" Width="150" Margin="5" Click="StartGame_Click"/>
+            <Button Content="Exit" Width="150" Margin="5" Click="Exit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
