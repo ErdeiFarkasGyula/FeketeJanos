@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\12d\Documents\GitHub\FeketeJanos\obj\Debug\
+C:\Users\12d\Documents\GitHub\FeketeJanos\obj\Release\
 FeketeJános
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\12d\Documents\GitHub\FeketeJanos\App.xaml
 3-1140807500
 
@@ -16,5 +16,5 @@ C:\Users\12d\Documents\GitHub\FeketeJanos\App.xaml
 13-1310406943
 MainWindow.xaml;Windows\GameWindow.xaml;Windows\ResultWindow.xaml;
 
-False
+True
 
