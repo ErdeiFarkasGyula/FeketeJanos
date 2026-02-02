@@ -5,11 +5,48 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FeketeJános"
         mc:Ignorable="d"
-        Title="MainWindow" Height="200" Width="300">
+        Title="MainWindow" Height="400" Width="600">
     <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Képernyőkép 2026-02-02 082439.png"/>
+        </Grid.Background>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Button Content="Start Game" Width="150" Margin="5" Click="StartGame_Click"/>
-            <Button Content="Exit" Width="150" Margin="5" Click="Exit_Click"/>
+            <Button x:Name="StartButton" Content="Start Game" Width="400" Margin="5" Click="StartGame_Click" Height="70" Foreground="#FF002D0B" FontSize="36" BorderThickness="3,3,3,3">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF0F6F4E" Offset="0"/>
+                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF149066" Offset="1"/>
+                        <GradientStop Color="#FFA4FF72" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="ExitButton" Content="Exit" Width="400" Click="Exit_Click" Height="70" Foreground="#FF002D0B" FontSize="36" BorderThickness="3,3,3,3">
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-21.801" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF0F6F4E" Offset="0"/>
+                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF149066" Offset="1"/>
+                        <GradientStop Color="#FFA4FF72" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
         </StackPanel>
     </Grid>
 </Window>
