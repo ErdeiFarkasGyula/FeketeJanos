@@ -11,7 +11,7 @@ namespace FeketeJános.Classes {
         public int Value { get; set; }
 
         public override string ToString() {
-            return Rank + " of " + Suit;
+            return Rank + Suit;
         }
     }
 }

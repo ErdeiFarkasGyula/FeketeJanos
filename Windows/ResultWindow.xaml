@@ -6,13 +6,67 @@
         xmlns:local="clr-namespace:FeketeJános.Windows"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="ResultWindow" Height="250" Width="400">
+        Title="ResultWindow" Height="400" Width="600">
     <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/Névtelen.png"/>
+        </Grid.Background>
         <StackPanel Margin="10">
-            <TextBlock x:Name="ResultText" FontSize="18"/>
-            <TextBlock x:Name="FinalHands" Margin="0,10,0,0"/>
-
-            <Button Content="Back to Menu" Margin="0,20,0,0" Click="Menu_Click"/>
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.5">
+                    <GradientStop Color="#FF2F2F2F"/>
+                    <GradientStop Color="#FF7D7D7D" Offset="0.983"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <TextBlock x:Name="ResultText" FontSize="48" Margin="20,10,20,10" Foreground="White">
+                <TextBlock.Effect>
+                    <DropShadowEffect/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <TextBlock x:Name="FinalHands" Margin="20,10,20,10" FontSize="36" Foreground="White">
+                <TextBlock.Effect>
+                    <DropShadowEffect/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <Button x:Name="StartButton" Content="Back to menu" Width="400" Click="Menu_Click" Height="70" FontSize="36" BorderThickness="3,3,3,3" Margin="10,50,10,10">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF001505" Offset="0.99"/>
+                        <GradientStop Color="#FF005214" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF0F6F4E" Offset="0"/>
+                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF149066" Offset="1"/>
+                        <GradientStop Color="#FFA4FF72" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
         </StackPanel>
     </Grid>
 </Window>
