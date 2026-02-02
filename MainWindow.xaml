@@ -12,28 +12,23 @@
             <ImageBrush ImageSource="/Képernyőkép 2026-02-02 082439.png"/>
         </Grid.Background>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Button x:Name="StartButton" Content="Start Game" Width="400" Margin="5" Click="StartGame_Click" Height="70" Foreground="#FF002D0B" FontSize="36" BorderThickness="3,3,3,3">
-                <Button.BorderBrush>
+            <Button x:Name="StartButton" Content="Start Game" Width="400" Margin="5,10,5,10" Click="StartGame_Click" Height="70" FontSize="36" BorderThickness="3,3,3,3">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Foreground>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                        <GradientStop Color="#FF0F6F4E" Offset="0"/>
-                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                        <GradientStop Color="#FF001505" Offset="0.99"/>
+                        <GradientStop Color="#FF005214" Offset="0"/>
                     </LinearGradientBrush>
-                </Button.BorderBrush>
-                <Button.Background>
-                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                        <GradientStop Color="#FF149066" Offset="1"/>
-                        <GradientStop Color="#FFA4FF72" Offset="0"/>
-                    </LinearGradientBrush>
-                </Button.Background>
-            </Button>
-            <Button x:Name="ExitButton" Content="Exit" Width="400" Click="Exit_Click" Height="70" Foreground="#FF002D0B" FontSize="36" BorderThickness="3,3,3,3">
+                </Button.Foreground>
                 <Button.BorderBrush>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <LinearGradientBrush.RelativeTransform>
                             <TransformGroup>
                                 <ScaleTransform CenterY="0.5" CenterX="0.5"/>
                                 <SkewTransform CenterX="0.5" CenterY="0.5"/>
-                                <RotateTransform Angle="-21.801" CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
                                 <TranslateTransform/>
                             </TransformGroup>
                         </LinearGradientBrush.RelativeTransform>
@@ -43,6 +38,53 @@
                 </Button.BorderBrush>
                 <Button.Background>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF149066" Offset="1"/>
+                        <GradientStop Color="#FFA4FF72" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="ExitButton" Content="Exit" Width="400" Click="Exit_Click" Height="70" FontSize="36" BorderThickness="3,3,3,3" Margin="5,10,5,10">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF005214"/>
+                        <GradientStop Color="#FF001505" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Foreground>
+                <Button.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF0F6F4E" Offset="0"/>
+                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.BorderBrush>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-30" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
                         <GradientStop Color="#FF149066" Offset="1"/>
                         <GradientStop Color="#FFA4FF72" Offset="0"/>
                     </LinearGradientBrush>

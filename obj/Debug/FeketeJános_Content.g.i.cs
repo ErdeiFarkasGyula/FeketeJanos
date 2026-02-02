@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("k%c3%a9perny%c5%91k%c3%a9p%202026-02-02%20082439.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("windows/black-jack-gambling-table-background-61373059.jpg")]
 
 

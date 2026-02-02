@@ -114,5 +114,8 @@
   <ItemGroup>
     <Resource Include="Képernyőkép 2026-02-02 082439.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Windows\black-jack-gambling-table-background-61373059.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
