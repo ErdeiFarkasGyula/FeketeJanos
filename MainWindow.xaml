@@ -19,11 +19,15 @@
                     <GradientStop Color="#FF7D7D7D" Offset="1"/>
                 </LinearGradientBrush>
             </StackPanel.Background>
-            <Label Content="Szia! János vagyok! Jácc velem! :3" FontSize="58" Foreground="White" Margin="10,10,10,10" HorizontalAlignment="Center" FontFamily="Palace Script MT">
-                <Label.Effect>
-                    <DropShadowEffect/>
-                </Label.Effect>
-            </Label>
+            
+            <ScrollViewer Height="100" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
+                <Label Content="Szia! János vagyok! Jácc velem! :3" FontSize="67" Foreground="White" Margin="10,10,10,10" HorizontalAlignment="Center" FontFamily="Palace Script MT">
+                    <Label.Effect>
+                        <DropShadowEffect/>
+                    </Label.Effect>
+                </Label>
+            </ScrollViewer>
+
             <Button x:Name="StartButton" Content="Start Game" Width="400" Margin="5,10,5,10" Click="StartGame_Click" Height="70" FontSize="36" BorderThickness="3,3,3,3">
                 <Button.Effect>
                     <DropShadowEffect/>
