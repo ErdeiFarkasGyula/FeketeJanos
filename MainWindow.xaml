@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:FeketeJános"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="MainWindow" Height="400" Width="600">
+        Icon="/Images/charlie-kirk-is-coming-to-uci-at-the-first-day-of-school-v0-c2untmipkslf1.jpg"
+        Title="Fekete János" Height="400" Width="600">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Images/Képernyőkép 2026-02-02 082439.png"/>

@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:FeketeJános.Windows"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="ResultWindow" Height="400" Width="600">
+        Icon="/Images/meow.jpg"
+        Title="Fekete János" Height="400" Width="600">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Images/Névtelen.png"/>

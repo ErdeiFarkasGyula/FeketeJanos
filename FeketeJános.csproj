@@ -120,5 +120,14 @@
   <ItemGroup>
     <Resource Include="Images\Névtelen.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\efbf65f07a4b384604286279bf6506c1~tplv-tiktokx-cropcenter_1080_1080.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\charlie-kirk-is-coming-to-uci-at-the-first-day-of-school-v0-c2untmipkslf1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\meow.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

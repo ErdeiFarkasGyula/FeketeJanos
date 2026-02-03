@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:FeketeJános.Windows"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="GameWindow" Height="450" Width="800">
+        Icon="/Images/efbf65f07a4b384604286279bf6506c1~tplv-tiktokx-cropcenter_1080_1080.jpeg"
+        Title="Fekete János" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/Images/black-jack-gambling-table-background-61373059.jpg"/>
