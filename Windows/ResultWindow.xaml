@@ -25,14 +25,15 @@
                 <ScrollViewer Height="154" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
                     <Image Source="/Images/efbf65f07a4b384604286279bf6506c1~tplv-tiktokx-cropcenter_1080_1080.jpeg" Stretch="None" />
                 </ScrollViewer>
-                <Label Height="2026" />
                 
-                <TextBlock x:Name="ResultText" FontSize="48" Margin="20,10,20,10" Foreground="White">
+                <Label Height="4167" />
+                
+                <TextBlock x:Name="ResultText" FontSize="48" Margin="20,10,20,10" Foreground="White" FontFamily="Curlz MT">
                     <TextBlock.Effect>
                         <DropShadowEffect/>
                     </TextBlock.Effect>
                 </TextBlock>
-                <TextBlock x:Name="FinalHands" Margin="20,10,20,10" FontSize="36" Foreground="White">
+                <TextBlock x:Name="FinalHands" Margin="20,10,20,10" FontSize="36" Foreground="White" FontFamily="French Script MT">
                     <TextBlock.Effect>
                         <DropShadowEffect/>
                     </TextBlock.Effect>

@@ -21,7 +21,7 @@
             </StackPanel.Background>
             
             <ScrollViewer Height="100" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
-                <Label Content="Szia! János vagyok! Jácc velem! :3" FontSize="67" Foreground="White" Margin="10,10,10,10" HorizontalAlignment="Center" FontFamily="Palace Script MT">
+                <Label Content="Szia! János vagyok! Jácc velem! :3" FontSize="80" Foreground="White" Margin="10,10,10,10" HorizontalAlignment="Center" FontFamily="Palace Script MT">
                     <Label.Effect>
                         <DropShadowEffect/>
                     </Label.Effect>
