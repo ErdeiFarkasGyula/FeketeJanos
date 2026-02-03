@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\documents\\github\\feketejanos\\windows\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\windows\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\classes\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,11 +35,7 @@
       "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:classes\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:windows\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|c:\\users\\12d\\documents\\github\\feketejanos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2C794797-A846-46E4-98FB-1DD79157EFF7}|FeketeJ\u00E1nos.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameWindow.xaml",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Windows\\GameWindow.xaml",
               "RelativeDocumentMoniker": "Windows\\GameWindow.xaml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Classes\\Card.cs",
               "RelativeDocumentMoniker": "Classes\\Card.cs",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "Classes\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:32:49.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:32:49.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Hand.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Classes\\Hand.cs",
               "RelativeDocumentMoniker": "Classes\\Hand.cs",
@@ -83,12 +82,11 @@
               "RelativeToolTip": "Classes\\Hand.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:29:25.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:29:25.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Classes\\Deck.cs",
               "RelativeDocumentMoniker": "Classes\\Deck.cs",
@@ -96,12 +94,11 @@
               "RelativeToolTip": "Classes\\Deck.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:26:18.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:26:18.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ResultWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Windows\\ResultWindow.xaml.cs",
               "RelativeDocumentMoniker": "Windows\\ResultWindow.xaml.cs",
@@ -109,12 +106,11 @@
               "RelativeToolTip": "Windows\\ResultWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:17:52.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:17:52.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Windows\\GameWindow.xaml.cs",
               "RelativeDocumentMoniker": "Windows\\GameWindow.xaml.cs",
@@ -122,12 +118,11 @@
               "RelativeToolTip": "Windows\\GameWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAlwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T08:05:17.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T08:05:17.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ResultWindow.xaml",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\Windows\\ResultWindow.xaml",
               "RelativeDocumentMoniker": "Windows\\ResultWindow.xaml",
@@ -146,12 +141,11 @@
               "ToolTip": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-02T07:32:21.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T07:32:21.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\12d\\Documents\\GitHub\\FeketeJanos\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
