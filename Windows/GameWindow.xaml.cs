@@ -32,9 +32,8 @@ namespace FeketeJános.Windows {
         }
 
         void UpdateUI() {
-            PlayerText.Text = "Player: " + string.Join(", ", player.Cards);
-            DealerText.Text = "Dealer: " + dealer.Cards[0] + ", [Hidden]";
-            PlayerValue.Text = "Value: " + player.Value;
+            AdatGrid.Items.Add(new TablazatSor("Te", string.Join(", ", player.Cards), player.Value.ToString()));
+            AdatGrid.Items.Add(new TablazatSor("AI©", dealer.Cards[0] + ", [Hidden]", "Számold csak ki"));
         }
 
         private void Hit_Click(object sender, RoutedEventArgs e) {
@@ -66,6 +65,18 @@ namespace FeketeJános.Windows {
             ResultWindow resultWindow = new ResultWindow(message, player, dealer);
             resultWindow.Show();
             Close();
+        }
+
+        public class TablazatSor {
+            public string nev { get; set; }
+            public string cards { get; set; }
+            public string value { get; set; }
+
+            public TablazatSor(string nev, string cards, string value) {
+                this.nev = nev;
+                this.cards = cards;
+                this.value = value;
+            }
         }
 
     }
