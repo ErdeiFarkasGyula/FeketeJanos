@@ -12,7 +12,18 @@
         <Grid.Background>
             <ImageBrush ImageSource="/Images/Képernyőkép 2026-02-02 082439.png"/>
         </Grid.Background>
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="520" Height="300">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.35">
+                    <GradientStop Color="#FF2F2F2F"/>
+                    <GradientStop Color="#FF7D7D7D" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Label Content="Szia! János vagyok! Jácc velem! :3" FontSize="58" Foreground="White" Margin="10,10,10,10" HorizontalAlignment="Center" FontFamily="Palace Script MT">
+                <Label.Effect>
+                    <DropShadowEffect/>
+                </Label.Effect>
+            </Label>
             <Button x:Name="StartButton" Content="Start Game" Width="400" Margin="5,10,5,10" Click="StartGame_Click" Height="70" FontSize="36" BorderThickness="3,3,3,3">
                 <Button.Effect>
                     <DropShadowEffect/>
@@ -73,7 +84,7 @@
                             </TransformGroup>
                         </LinearGradientBrush.RelativeTransform>
                         <GradientStop Color="#FF0F6F4E" Offset="0"/>
-                        <GradientStop Color="#FF79CE4A" Offset="1"/>
+                        <GradientStop Color="#FF79CE4A" Offset="0.997"/>
                     </LinearGradientBrush>
                 </Button.BorderBrush>
                 <Button.Background>
